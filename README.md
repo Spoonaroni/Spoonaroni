@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spoonaroni
-- 👀 I’m interested in programming, music, and video games
-- 🌱 I’m currently learning C and Godot
+- 👀 I’m interested in programming, music, and video games.
+- 🌱 I’m currently learning C through K.N. Kings "C Programming A Modern Approach, 2nd Edition". I am also tinkering with RayLib and neovim configs.
 - 😄 Pronouns: he/him
 
 <!---
