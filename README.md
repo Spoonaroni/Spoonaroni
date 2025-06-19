@@ -5,6 +5,4 @@
 //  
 // I’m currently learning C through K.N.  
 // Kings "C Programming A Modern Approach,  
-// 2nd Edition".   
-//  
-// Pronouns: he/him  
+// 2nd Edition".
